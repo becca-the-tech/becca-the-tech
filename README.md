@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on a [Learning Tracker](https://gentle-dawn-40473.herokuapp.com/) and a [Book Tracker](https://infinite-beyond-79502.herokuapp.com/) project.
+   I made them using EJS, Express, Node, and MongoDB (currently adding Bootstrap to the Book Tracker). Next steps are to add authentication so others can use the projects and I will probably re-factor to add React to one or both of the projects once I learn more.
+- 🌱 I’m currently learning React
+- 📫 How to reach me: becca.the.tech@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I've made plants email me when they need watered (with a Raspberry Pi Smart Farm I built).
+
+If any of this intrigues you, check out [my portfolio](https://becca-the-tech.github.io/ReviewPages/portfolio.html) or reach out to my by email or [Twitter](https://twitter.com/beccathetech). Currently looking for a software engineer job in Tampa, FL or remote opportunities.
+
 <!--
 **becca-the-tech/becca-the-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

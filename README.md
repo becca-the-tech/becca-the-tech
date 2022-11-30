@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a [Learning Tracker](https://becca-learning.cyclic.app/) and a [Book Tracker](https://becca-books.cyclic.app/) project, and a side project connected with the books one a [Quote API](https://becca-books.cyclic.app/quotes/random/6).
+- 📚 I’m currently working on a [Learning Tracker](https://becca-learning.cyclic.app/) and a [Book Tracker](https://becca-books.cyclic.app/) project, and a side project connected with the books one a [Quote API](https://becca-books.cyclic.app/quotes/random/6).
    I made them using EJS, Express, Node, and MongoDB (currently adding Bootstrap to the Book Tracker). Next steps are to add authentication so others can use the projects and I will probably re-factor to add React to one or both of the projects once I learn more.
 - 🌱 I’m currently learning React
 - 📫 How to reach me: becca.the.tech@gmail.com

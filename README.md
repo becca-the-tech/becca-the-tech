@@ -8,7 +8,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I've made plants email me when they need watered (with a Raspberry Pi Smart Farm I built).
 
-If any of this intrigues you, check out [my portfolio](https://becca-the-tech.github.io/ReviewPages/portfolio.html) or reach out to my by email or [Twitter](https://twitter.com/beccathetech). Currently looking for a software engineer job in Tampa, FL or remote opportunities.
+If any of this intrigues you, check out [my portfolio](https://becca-the-tech.github.io/ReviewPages/portfolio.html) or reach out to my by email. Currently looking for a software engineer job in Tampa, FL or remote opportunities.
 
 <!--
 **becca-the-tech/becca-the-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
